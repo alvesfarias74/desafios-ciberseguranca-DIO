@@ -17,7 +17,7 @@ Este projeto foca no desenvolvimento e análise de malwares simulados utilizando
 - **Ransomware Simulado:** Implementa-se um script capaz de criptografar e descriptografar arquivos de teste, simulando o sequestro de dados e a geração de mensagens de resgate.
 - **Keylogger e Exfiltração:** Desenvolve-se uma ferramenta de captura de teclas que opera de forma furtiva em segundo plano e realiza o envio automático dos logs capturados via e-mail (exfiltração remota).
 - **Estratégias de Defesa:** Documentam-se medidas de proteção como o uso de antivírus, firewalls, técnicas de *sandboxing* e a importância da conscientização do usuário contra engenharia social.
-- [Acesse a documentação completa aqui](./captura-de-dados/) *(ajuste o link conforme o nome da sua pasta)*
+- [Acesse a documentação completa aqui](./captura-de-dados/README.md)
 
 ## Objetivos Alcançados
 - Compreensão prática do funcionamento de ataques de força bruta e malwares (Ransomware/Keylogger).
