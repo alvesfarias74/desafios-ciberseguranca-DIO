@@ -10,7 +10,7 @@ O repositório está organizado em subdiretórios, cada um contendo sua própria
 Neste projeto, realiza-se a simulação de ataques de força bruta contra diversos serviços em um ambiente laboratorial composto por Kali Linux e Metasploitable 2.
 - **Técnicas Exploradas:** Varredura de portas com Nmap, ataques ao protocolo FTP, força bruta em formulários web (DVWA) e *password spraying* em serviços SMB.
 - **Ferramentas:** Kali Linux, Medusa, Nmap e Enum4linux.
-- [Acesse a documentação completa aqui](./desafio-medusa/) *(ajuste o link conforme o nome da sua pasta)*
+- [Acesse a documentação completa aqui](./testes-de-invasao-medusa/README.md)
 
 ### 2. Simulação de Malwares e Captura de Dados (Python)
 Este projeto foca no desenvolvimento e análise de malwares simulados utilizando a linguagem **Python** para fins estritamente educacionais. O objetivo é demonstrar como ameaças capturam ou sequestram dados e como implementar defesas reais.
