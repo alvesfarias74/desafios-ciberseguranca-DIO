@@ -5,7 +5,7 @@ Este projeto apresenta a documentação detalhada de uma auditoria de segurança
 ## 1. Configuração do Ambiente Laboratorial
 Realiza-se a preparação do cenário de testes utilizando o software de virtualização **VirtualBox**. Configura-se uma rede interna do tipo *host-only* para isolar o tráfego. Utiliza-se o **Kali Linux** como estação atacante e o **Metasploitable 2** como o alvo vulnerável que contém diversos serviços propositalmente expostos.
 
-![Interface de inicialização do Metasploitable 2](.\testes-invasao-medusa\images\img%20(1).png)
+![Interface de inicialização do Metasploitable 2](..\testes-invasao-medusa\images\img%20(1).png)
 
 ## 2. Reconhecimento de Rede e Conectividade
 Inicia-se a fase de reconhecimento com a identificação do endereço IP da máquina alvo através do comando `ip a` no terminal do Metasploitable 2. Em seguida, executa-se o comando `ping` no Kali Linux para validar a comunicação bidirecional entre as máquinas, garantindo que o alvo está alcançável na rede interna.
