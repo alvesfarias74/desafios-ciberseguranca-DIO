@@ -10,10 +10,10 @@ Realiza-se a preparação do cenário de testes utilizando o software de virtual
 ## 2. Reconhecimento de Rede e Conectividade
 Inicia-se a fase de reconhecimento com a identificação do endereço IP da máquina alvo através do comando `ip a` no terminal do Metasploitable 2. Em seguida, executa-se o comando `ping` no Kali Linux para validar a comunicação bidirecional entre as máquinas, garantindo que o alvo está alcançável na rede interna.
 
-![Identificação do endereço IP do alvo](.\testes.invasao-medusa\images\img%20(3).png)
+![Identificação do endereço IP do alvo](./images/img%20(3).png)
 **
 
-![Validação de conectividade via comando Ping](.\testes.invasao-medusa\images\img%20(4).png)
+![Validação de conectividade via comando Ping](./images/img%20(4).png)
 **
 
 ## 3. Varredura de Portas e Serviços (Fingerprinting)
